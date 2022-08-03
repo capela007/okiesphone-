@@ -1,0 +1,36 @@
+.navbar{
+    background-color: black !important;
+}
+
+.navbar .nav-link.active{
+        font-size: 2rem;
+        color: white;
+}
+
+.navbar .nav-link:hover{
+    color: white;
+}
+
+footer{
+    background-color: black;
+}
+
+
+
+/* overview  styling  */
+/* #overview-banner{ */
+    background-image: ;
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+
+.container img{
+    height: 34%;
+    width: 24%;
+}
+
+/* swipper */
+
+.swiper-button-next,.swiper-button-prev{
+
+}
